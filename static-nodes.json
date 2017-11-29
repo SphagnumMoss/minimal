@@ -1,0 +1,8 @@
+
+//This file allows the nodes to connect to each other
+["enode://a902bf72db86cb0bf60ad02e6e47176b105216b538247c132587c716aedb000c49cb1f5e126232b10571a03af51fe5e90d2748827e05a921607616a565c51d0f@192.168.1.92:30303",
+
+"enode://fc650fa7811ce1132252d5c0611ba7fb567b0d1de4b652b8ff6bf188cb47bc922d9026ee1c33f7cea25eddb31775e5f9c44a468b96eb8769ac7ff13248a3911b@192.168.1.92:30304",
+"enode://36511f5bca71e1bc36ff1d580ec8dca6a4173129acc4d4ab89d518c2d8ac4a197cfc08500e64d426bb2115f354bd684bd13bd58420aee7f28332cfc4dc484b5c@192.168.1.99:30303"
+//each node has its own 'enode address' which has to be updated with the users IP address after the @ the port adter the : is defined earlier and each enode is formated as abover with "" around and ended with a ,
+]
